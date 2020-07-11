@@ -21,7 +21,11 @@ Here "password based key drivation function" (hash_name,password,salt,no_of_iter
 utf-  is character encoding format (unicode transformation format)
 
 class method-the things which are not going to be changed depods on the instance and only works on class variblaes
+
+
 instance method -when we work on instance variables
+
+
 static method- when we doesn't work onn class and instance vaiables
  
 
